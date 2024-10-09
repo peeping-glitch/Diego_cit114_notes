@@ -15,9 +15,11 @@
 + Another quote i found very intresting is the shared responsibility while the customer has more responsibility because they are the ones that handle the data and the cloud services are responsible for security of the actual cloud as stated in the shared responsibility model "The nature of this shared responsibility also provides the flexibility and customer control that permits the deployment. As shown in the chart below, this differentiation of responsibility is commonly referred to as Security “of” the Cloud versus Security “in” the Cloud"(6.04 AWS Shared Responsibility Model)
 
 **New facts that i learned from this section**
+
 Some new facts i learned about in this section is the AIC Triad. It is very intresting that there is sort of a standard of how you handle cybersecurity. It also helps with making a concept that might have been hard for someone to understand and set up a base on how to handle things such as security which is very important.
 Another fact i learned from this section is the features of the AWS Service called IAM it grants other people to acces an account to administer and use the AWS services without having to just use on login. You can also use to add secure acces to 
 any applications that are running on the EC2 service.
 
 **Questions that remain in my mind**
+
 The questions that remain in my mind after reading this section are can you make temporary accounts such for those who are auditing or when they have pentesters come in and point out vulnerabilities.
