@@ -1,7 +1,7 @@
 ## Notes 10:Automatic Scaling & Monitoring in AWS
 
 **Key Points**
-+ Load balacing- load balacing helps with spreading the workload of multiple servers/ services so they can preform the bast they can
++ Load balacing- load balacing helps with spreading the workload of multiple servers/ services so they can preform the best they can
 + Dynamic load balancing algorithms take the current availability, workload, and health of each server into account.
 + There is predictive Autoscaling that predicts when a service will be busy and autoscales 
 + Scheduled Autoscaling- This is the scheduled timely way of autoscaling give the time parameters give my the user that scale at times where a service will get busy
