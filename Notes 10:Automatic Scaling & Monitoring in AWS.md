@@ -15,7 +15,7 @@
 
 **Outline new facts that i learned from this section**
 
-Some new facts that i learned from this section are that its kind of like dcontainers where they start new instances when one becomes over crowded but in our case it will spread the workload to other servers around the network so nothing is overloaded. Some other facts i learned are that there are dedicated algorithms for the practice of load balacing. Another fact i learned is that AWS or any cloud service can take care of that for with the selection of a couple of buttons.
+Some new facts that i learned from this section are that its kind of like containers where they start new instances when one becomes over crowded but in our case it will spread the workload to other servers around the network so nothing is overloaded. Some other facts i learned are that there are dedicated algorithms for the practice of load balacing. Another fact i learned is that AWS or any cloud service can take care of that for with the selection of a couple of buttons.
 
 
 **What question remain after reading the section**
