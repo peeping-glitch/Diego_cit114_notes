@@ -5,10 +5,10 @@
 +  Availability is defined as the percentage of time that a workload is available for use. Available for use means that it performs its agreed function when required.t
 + There are pillars to a well contstructured architecture are operational excellence, reliability, performance efficiency, cost optimization, and sustainability
 + One of the best practices that is identified in the AWS Well-Architected Framework is to plan for failure
-+ 
-+ 
-+ 
-+ 
++ mean time to failure-which is the length of time a system is available until it fails. Once it does fail, you need to repair and bring the system back online
++ High availability-s a quality of a system or component that assures a high level of operational performance for a given period of time
++ AWS Well-Architected Tool -helps you review the state of your workloads and compares them to the latest AWS architectural best practices
++  AWS Management Console, just define your workload and answer a set of questions regarding operational excellence, security, reliability, performance efficiency, and cost optimization
   
 **Identify 2 Quotes that are intresting**
 + A quote i found to be very intresting is actually the pillars to a well constructured cloud "Based on what we have learned, we have created the AWS Well-Architected Framework, which provides
